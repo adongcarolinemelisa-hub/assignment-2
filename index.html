@@ -58,7 +58,7 @@
 
 
 <div class="bio-container">
-    <img src="images/12345.jpeg" alt="My Picture">
+    <img src="12345.jpeg" alt="My Picture">
     <div class="bio-text"> 
     <h1>ADONG CAROLINE MELISA</h1>
       <p>
@@ -142,15 +142,15 @@
 <td colspan="2">
  <div class="contact-row">
     <div class="contact-item">
-      <img src="images/12.jpeg" alt="WhatsApp">
+      <img src="12.jpeg" alt="WhatsApp">
       <span>+256 771 985458</span>
     </div>
     <div class="contact-item">
-      <img src="images/23.jpeg" alt="Facebook">
+      <img src="23.jpeg" alt="Facebook">
       <span>MehLeeSah Kharo</span>
     </div>
     <div class="contact-item">
-      <img src="images/34.jpeg" alt="Twitter">
+      <img src="34.jpeg" alt="Twitter">
       <span>@caroline_a36040</span>
     </div>
   </div>
