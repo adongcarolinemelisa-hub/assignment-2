@@ -71,21 +71,29 @@
 </tr> 
 
 <tr>
-  <td valign="top"> <b> My Schools </b>
-   <ol type="1">
+  <td valign="top"> <b> EDUCATION BACKGROUND </b>
+   <ol type="1.">
 <li>Kyambogo University</li>
+<p>Bachelor of Information Technology and Computing</p>
+<p>2024-todate</p>
 <li>St.Joseph's Naggalama</li>
+<p>Uganda Advanced Certificate of Education</p>
+<p>2022-2023</p>
 <li>St.Joseph's Girls Nsmabya</li>
+<p>Uganda Certificate of Education</p>
+<p>2017-2020</p>
 <li>Kigumba Centre Primary School</li>
+<p>Primary Leaving Examinations</p>
+<p>2010-2016</p>
    </ol>
   </td>
 
-<td valign="top"><b>My skills and hobbies</b>  
+<td valign="top"><b>MY SKILLS AND HOBBIES</b><b r> 
    <ul type="disc">
-<li>Communication skills</li>
-<li>Problem solving</li>
-<li>Listening to music</li>
-<li>Having a good time with friends</li>
+<li>Communication skills</li><br>
+<li>Problem solving</li><br>
+<li>Listening to music</li><br>
+<li>Having a good time with friends</li><br>
    </ul>
   
   </td>
@@ -95,22 +103,37 @@
 <td colspan="2">
 
 <table class= "sub-table" alignment= "centre" border="1px" cellspacing="0" cellpadding="10">
-<th colspan="2"> ANIMALS AND THEIR HOMES</th>
+<th colspan="2"> SEMESTER TWO COURSES</th>
  <tr>
- <td>Dog</td>
- <td>Kennel</td>
+ <td>SCS2201</td>
+ <td>Operating Systems Implementation</td>
 
  </tr>
  <tr>
- <td>Pig</td>
- <td>Sty</td>
+ <td>SCS2202</td>
+ <td>Introdction to Object-Oriented Programming</td>
  </tr>
 
  <tr>
- <td>Cow</td>
- <td>Kraal</td>
+ <td>SCS2203</td>
+ <td>Introduction to DBMS</td>
  </tr>
 
+ <tr>
+ <td>SCS2204</td>
+ <td>Software Engineering</td>
+ </tr>
+
+ <tr>
+ <td>SCS2205</td>
+ <td>Internet Technologies</td>
+ </tr>
+
+ <tr>
+ <td>SCS2206</td>
+ <td>Research Methods in Computing</td>
+ </tr>
+ 
 </table>
 </td>
 </tr>
